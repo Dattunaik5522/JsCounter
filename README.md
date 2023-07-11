@@ -1,2 +1,2 @@
 # JsCounter
-Counter application
+Counter application in javaScript
